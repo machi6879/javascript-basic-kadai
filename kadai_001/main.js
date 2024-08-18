@@ -139,6 +139,6 @@ typeCount.style.display = 'block';
 document.addEventListener('keypress', keyPress);
 });
 
-untypedfield.textContent = 'スタートボタンで開始'
+untypedfield.textContent = 'スタートボタンで開始';
 
 
